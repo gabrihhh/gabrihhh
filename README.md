@@ -8,7 +8,7 @@
  - 📞 Contate-me no email: gabriel.patara@gmail.com
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gabrihhh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrihhh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrihhh&layout=compact&langs_count=7&theme=dark"/>
