@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Elias Patara
 
  - 📓 Hoje trabalho com front-end.(mas tenho experiencia fullStack).
- - 💻 Eu estou estudando Java e Python.
+ - 💻 Eu estou estudando Node, Javascript, React, Sequelize, Mysql, Java e Python.
  - 📜 Sou certificado pela Digital House.
  - 📚 Estou atualmente estudando Análise e Desenvolvimento de Sistemas.
  - 🎼 Fato interessante: Toco musica classica.
