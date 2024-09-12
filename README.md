@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Elias Patara
 
  - 📓 Hoje trabalho com Desenvolvimento FullStack.
- - 💻 Estou atualmente trabalhando na empresa Yamauchi.
+ - 💻 Estou atualmente procurando emprego.
  - 📜 Sou certificado pela FIAP e Digital House.
  - 📚 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na FIAP.
  - 🎼 Fato interessante: Toco musica classica e ando de skate.
