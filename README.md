@@ -2,7 +2,7 @@
 
  - 📓 Hoje trabalho com Desenvolvimento FullStack.
  - 📜 Sou certificado pela FIAP e Digital House.
- - 📚 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na FIAP.
+ - 📚 Estou atualmente visando uma Pós-Graduação.
  - 🎼 Fato interessante: Toco musica classica e ando de skate.
  - 📞 Contate-me no email: gabriel.patara@gmail.com
 
