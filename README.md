@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Elias Patara
 
- - 📓 Hoje trabalho com Desenvolvimento FullStack.
+ - 📓 Hoje atuo com Desenvolvimento FullStack idependente da linguagem
  - 📜 Sou certificado pela FIAP e Digital House.
  - 📚 Estou atualmente visando uma Pós-Graduação.
  - 🎼 Fato interessante: Toco musica classica e ando de skate.
