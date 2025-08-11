@@ -30,4 +30,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
 </div>
-
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrihhh&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrihhh&layout=compact&theme=radical" alt="Top languages"/>
+</p>
